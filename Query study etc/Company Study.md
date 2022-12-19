@@ -22,3 +22,10 @@
 
       "select  * FROM admin.tb_bizring WHERE biz_regtime BETWEEN '$date_to 00:00:00' AND '$date_from 23:59:59' 
                       ORDER BY biz_regtime DESC";
+**시간으로서 간단한 삭제**
+
+      delete  
+                
+                FROM admin.tb_bizring 
+                WHERE biz_regtime BETWEEN '2022-12-19 10:41:49' AND '2022-12-19 23:59:59' 
+                ORDER BY biz_regtime DESC;
