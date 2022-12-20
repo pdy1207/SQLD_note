@@ -29,3 +29,7 @@
                 FROM admin.tb_bizring 
                 WHERE biz_regtime BETWEEN '2022-12-19 10:41:49' AND '2022-12-19 23:59:59' 
                 ORDER BY biz_regtime DESC;
+                
+**업데이트 문**
+      
+      UPDATE [테이블] SET [열] = '변경할값' WHERE [조건]
