@@ -33,3 +33,8 @@
 **업데이트 문**
       
       UPDATE [테이블] SET [열] = '변경할값' WHERE [조건]
+      
+      
+**DB 삭제**
+
+      drop database 데이터베이스명
