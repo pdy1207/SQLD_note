@@ -1,6 +1,6 @@
 ## 관계형 데이터베이스의 꽃 JOIN <br> -[JOIN 강의](https://opentutorials.org/course/3884/25179)
 
-### 예시 (JOIN에 의미부여 해봅시다.)
+### 예시 (JOIN에 의미부여 해봅시다.))
 
       mysql> SELECT * FROM topic LEFT JOIN author ON topic.author_id = author.id; //전체 다 뽑기
       
