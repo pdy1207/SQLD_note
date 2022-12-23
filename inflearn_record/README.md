@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://velog.velcdn.com/images/taeha7b/post/8b9cf253-0b40-45f6-976d-daf0280fdb25/Data-dase.jpg" height="380">
+  <img src="https://post-phinf.pstatic.net/MjAyMDAyMDNfMjEw/MDAxNTgwNjk0NzE1ODI5.2iJZYxNqkvk5KFuKNGs6eW8GZU5XOtXgT7ixZHeE-g0g.v8JRmZehoTrcC6fX0GCFFVFwBQkQTx5Amrz3jQNDyw0g.JPEG/1.jpg?type=w1200" height="450">
   <h2 align="center">Database의 개념 및 기초 🌌</h2>
 </p>
 
