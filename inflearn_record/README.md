@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.etnews.com/photonews/2205/1528793_20220508132802_236_0001.jpg" height="450">
+  <img src="https://img.etnews.com/photonews/2205/1528793_20220508132802_236_0001.jpg" height="350">
   <h2 align="center">Database의 개념 및 기초 🌌</h2>
 </p>
 
