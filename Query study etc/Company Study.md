@@ -40,3 +40,9 @@
 **DB 삭제**
 
       drop database 데이터베이스명
+      
+      
+**기본 PK삭제 후 새롭게 PK 설정**
+
+      ALTER TABLE study DROP id; 
+      ALTER TABLE study ADD PRIMARY KEY (login_id);
