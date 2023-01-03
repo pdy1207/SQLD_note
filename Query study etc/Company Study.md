@@ -46,3 +46,11 @@
 
       ALTER TABLE study DROP id; 
       ALTER TABLE study ADD PRIMARY KEY (login_id);
+      
+      
+      
+**11월 01일에 등록한 김씨 인원 조회**
+
+      SELECT * FROM TB_BIZRING 
+      WHERE (biz_regtime BETWEEN '2022-11-01 00:00:00' AND '2022-11-01 00:00:00') OR 
+      (biz_name like '김%') ORDER BY biz_regtime DESC;
